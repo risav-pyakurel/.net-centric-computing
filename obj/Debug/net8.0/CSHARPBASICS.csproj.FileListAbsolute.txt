@@ -1,0 +1,15 @@
+/home/risav/net centric computing/CSHARPBASICS/bin/Debug/net8.0/CSHARPBASICS
+/home/risav/net centric computing/CSHARPBASICS/bin/Debug/net8.0/CSHARPBASICS.deps.json
+/home/risav/net centric computing/CSHARPBASICS/bin/Debug/net8.0/CSHARPBASICS.runtimeconfig.json
+/home/risav/net centric computing/CSHARPBASICS/bin/Debug/net8.0/CSHARPBASICS.dll
+/home/risav/net centric computing/CSHARPBASICS/bin/Debug/net8.0/CSHARPBASICS.pdb
+/home/risav/net centric computing/CSHARPBASICS/obj/Debug/net8.0/CSHARPBASICS.GeneratedMSBuildEditorConfig.editorconfig
+/home/risav/net centric computing/CSHARPBASICS/obj/Debug/net8.0/CSHARPBASICS.AssemblyInfoInputs.cache
+/home/risav/net centric computing/CSHARPBASICS/obj/Debug/net8.0/CSHARPBASICS.AssemblyInfo.cs
+/home/risav/net centric computing/CSHARPBASICS/obj/Debug/net8.0/CSHARPBASICS.csproj.CoreCompileInputs.cache
+/home/risav/net centric computing/CSHARPBASICS/obj/Debug/net8.0/CSHARPBASICS.sourcelink.json
+/home/risav/net centric computing/CSHARPBASICS/obj/Debug/net8.0/CSHARPBASICS.dll
+/home/risav/net centric computing/CSHARPBASICS/obj/Debug/net8.0/refint/CSHARPBASICS.dll
+/home/risav/net centric computing/CSHARPBASICS/obj/Debug/net8.0/CSHARPBASICS.pdb
+/home/risav/net centric computing/CSHARPBASICS/obj/Debug/net8.0/CSHARPBASICS.genruntimeconfig.cache
+/home/risav/net centric computing/CSHARPBASICS/obj/Debug/net8.0/ref/CSHARPBASICS.dll
